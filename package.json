@@ -1,13 +1,19 @@
 {
   "name": "tableau-extensions-api-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI to help generate a Tableau extensions api manifest file",
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "tableau"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andre347/tableau-extensions-api-cli"
+  },
   "author": "Andre de Vries <aedevries19@gmail.com> (https://andredevries.dev)",
   "license": "MIT",
   "dependencies": {
