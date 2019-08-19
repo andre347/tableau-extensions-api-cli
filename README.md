@@ -11,7 +11,7 @@ This utility allows you to quickly scaffold a manifest file. The extension manif
 Install:
 
 ```
-npm i tableau-extensions-api-cli
+npm i tableau-extensions-api-cli -g
 ```
 
 After installation, run the following command from anywhere on your machine:
